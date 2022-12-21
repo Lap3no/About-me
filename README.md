@@ -4,4 +4,4 @@
 
 Более семи лет я работаю юристом в области банкротства юридических лиц
 
-<image src="/images/picture.jpg"
+<image src="/images/image.jpeg"
